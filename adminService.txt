@@ -1,7 +1,7 @@
 add and remove users
 change the roles
 manage the database
-closing the mssql database connection
+closing the mssql database connection with python
 
 change1
 
